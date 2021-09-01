@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @666eternalatake
-- 👀 I’m interested in Frontend and Data Science
+- 👀 I’m interested in Frontend 
 - 🌱 I’m currently learning HTML/CSS, JS, React, Python, SQL
-- 💞️ I’m looking to collaborate on Frontend/DS projects
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me sanyaslepcov@gmail.com
 
 <!---
